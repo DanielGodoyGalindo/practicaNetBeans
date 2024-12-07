@@ -7,6 +7,6 @@ package com.mycompany.proyectogitnetbeans;
 public class ProyectoGitNetBeans {
 
     public static void main(String[] args) {
-        System.out.println("Cambio el mensaje");
+        System.out.println("Modificado desde GitHub");
     }
 }
